@@ -10,6 +10,7 @@
 
   <modules>
     <module>generator</module>
+    <module>processor</module>
   </modules>
 
   <name>hdp-task</name>
